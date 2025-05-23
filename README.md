@@ -70,20 +70,9 @@ Tourist location vs. satisfaction
 
 Price per night vs. satisfaction
 
-### 5. Visualization
-Utilized:
+### 5. Visualization Utilized:
 
-Scatter plots
-
-Box plots
-
-Violin plots
-
-Bar charts
-
-Histograms
-
-Heatmaps
+Scatter plots, Box plots, Violin plots, Bar charts, Histograms, and Heatmaps
 
 ## Key Findings:
 No strong correlation between price and rating — affordable hotels can offer excellent service.
@@ -107,5 +96,5 @@ Unmeasured confounding factors (e.g., economic shifts, global events)
 
 Contextual gaps due to external events (e.g., pandemics)
 
-##Conclusion:
+## Conclusion:
 This analysis provides actionable insights for Egypt’s hotel industry. Value, consistency, and service quality are more influential than location or pricing alone. These findings encourage data-driven strategies for improving guest experiences across all types of accommodations.
