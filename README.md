@@ -1,9 +1,9 @@
 # The State of Hotels in Egypt
 
-Project Overview
+Project Overview: 
 This project investigates the key factors influencing guest satisfaction across hotels in Egypt. Using real-world data collected from online booking platforms, we analyze variables like price, location, amenities, and review patterns to identify what truly matters to travelers. The study aims to support hospitality professionals in making data-informed improvements and guide tourists in choosing accommodations.
 
-Research Question
+Research Question: 
 "What are the key factors that drive guest satisfaction in hotels across different regions of Egypt?"
 
 Team Members
@@ -15,14 +15,14 @@ Malak Mohamed Ali — 23-101124
 
 Supervised By:
 
-Dr. Mohamed Taher ElRefaei
+. Dr. Mohamed Taher ElRefaei
 
-TA Shereen Elfayoumi
+. TA Shereen Elfayoumi
 
-TA Nadine Elsaeed
+. TA Nadine Elsaeed
 
 
-Dataset
+Dataset:
 Source: Kaggle – Egypt Hotels Dataset
 
 Rows: 947
