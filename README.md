@@ -62,9 +62,9 @@ Missing Values: Imputed using mean/mode or dropped if excessive
 ### 4. Hypothesis Testing
 #### Used ANOVA and Pearson correlation and tested relationships like:
 
-Tourist location vs. satisfaction
+* Tourist location vs. satisfaction
 
-Price per night vs. satisfaction
+* Price per night vs. satisfaction
 
 ### 5. Visualization Utilized:
 
