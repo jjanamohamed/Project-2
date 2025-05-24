@@ -29,26 +29,26 @@ Rows: 947  I  Columns: 19
 
 #### Content Includes:
 
-Hotel name, type, coordinates
+* Hotel name, type, coordinates
 
-Check-in/out times
+* Check-in/out times
 
-Star rating, customer satisfaction score
+* Star rating, customer satisfaction score
 
-Review count
+* Review count
 
-Location rating
+* Location rating
 
-Price range, amenities, and nearby attractions
+* Price range, amenities, and nearby attractions
 
 ## Methodology
 ### 1. Data Collection
 Data from online review platforms containing real guest feedback and ratings.
 
 ### 2. Data Cleaning
-Outlier Handling: IQR method (capping instead of removal)
+* Outlier Handling: IQR method (capping instead of removal)
 
-Missing Values: Imputed using mean/mode or dropped if excessive
+* Missing Values: Imputed using mean/mode or dropped if excessive
 
 ### 3. Correlation Analysis
 #### Explored relationships between:
