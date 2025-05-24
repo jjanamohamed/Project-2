@@ -15,11 +15,11 @@ Malak Mohamed Ali — 23-101124
 
 ## Supervised By:
 
-. Dr. Mohamed Taher ElRefaei
+* Dr. Mohamed Taher ElRefaei
 
-. TA Shereen Elfayoumi
+* TA Shereen Elfayoumi
 
-. TA Nadine Elsaeed
+* TA Nadine Elsaeed
 
 
 ## Dataset:
@@ -60,9 +60,7 @@ Review Count and Ratings
 Location Ratings
 
 ### 4. Hypothesis Testing
-Used ANOVA and Pearson correlation
-
-Tested relationships like:
+#### Used ANOVA and Pearson correlation and tested relationships like:
 
 Tourist location vs. satisfaction
 
@@ -86,13 +84,13 @@ Price diversity: Vacation rentals have broader pricing, while hotels offer more 
 Moderate correlation between price and satisfaction (r ≈ 0.373).
 
 ## Limitations:
-Subjectivity in ratings
+* Subjectivity in ratings
 
-Possible sampling bias toward popular destinations
+* Possible sampling bias toward popular destinations
 
-Unmeasured confounding factors (e.g., economic shifts, global events)
+* Unmeasured confounding factors (e.g., economic shifts, global events)
 
-Contextual gaps due to external events (e.g., pandemics)
+* Contextual gaps due to external events (e.g., pandemics)
 
 ## Conclusion:
 This analysis provides actionable insights for Egypt’s hotel industry. Value, consistency, and service quality are more influential than location or pricing alone. These findings encourage data-driven strategies for improving guest experiences across all types of accommodations.
