@@ -25,9 +25,7 @@ Malak Mohamed Ali — 23-101124
 ## Dataset:
 Source: Kaggle – Egypt Hotels Dataset
 
-Rows: 947
-
-Columns: 19
+Rows: 947 I Columns: 19
 
 Content Includes:
 
