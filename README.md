@@ -25,9 +25,9 @@ Malak Mohamed Ali — 23-101124
 ## Dataset:
 Source: Kaggle – Egypt Hotels Dataset
 
-Rows: 947 I Columns: 19
+Rows: 947  I  Columns: 19
 
-Content Includes:
+#### Content Includes:
 
 Hotel name, type, coordinates
 
@@ -51,13 +51,13 @@ Outlier Handling: IQR method (capping instead of removal)
 Missing Values: Imputed using mean/mode or dropped if excessive
 
 ### 3. Correlation Analysis
-Explored relationships between:
+#### Explored relationships between:
 
-Price and Satisfaction
+* Price and Satisfaction
 
-Review Count and Ratings
+* Review Count and Ratings
 
-Location Ratings
+* Location Ratings
 
 ### 4. Hypothesis Testing
 #### Used ANOVA and Pearson correlation and tested relationships like:
@@ -71,17 +71,17 @@ Price per night vs. satisfaction
 Scatter plots, Box plots, Violin plots, Bar charts, Histograms, and Heatmaps
 
 ## Key Findings:
-No strong correlation between price and rating — affordable hotels can offer excellent service.
+* No strong correlation between price and rating — affordable hotels can offer excellent service.
 
-Hotels generally outperform vacation rentals in guest satisfaction.
+* Hotels generally outperform vacation rentals in guest satisfaction.
 
-Location (tourist vs. non-tourist) doesn’t significantly affect satisfaction.
+* Location (tourist vs. non-tourist) doesn’t significantly affect satisfaction.
 
-More reviews ≠ better quality — high satisfaction is independent of popularity.
+* More reviews ≠ better quality — high satisfaction is independent of popularity.
 
-Price diversity: Vacation rentals have broader pricing, while hotels offer more consistency.
+* Price diversity: Vacation rentals have broader pricing, while hotels offer more consistency.
 
-Moderate correlation between price and satisfaction (r ≈ 0.373).
+* Moderate correlation between price and satisfaction (r ≈ 0.373).
 
 ## Limitations:
 * Subjectivity in ratings
