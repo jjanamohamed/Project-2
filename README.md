@@ -3,7 +3,7 @@
 ## Project Overview: 
 This project investigates the key factors influencing guest satisfaction across hotels in Egypt. Using real-world data collected from online booking platforms, we analyze variables like price, location, amenities, and review patterns to identify what truly matters to travelers. The study aims to support hospitality professionals in making data-informed improvements and guide tourists in choosing accommodations.
 
-# Demo Video: [!Watch the demo!](https://drive.google.com/file/d/14DHZgjcsMc2nYK90pF25YohZGff5ae2B/view?usp=sharing)
+## Demo Video: [!Watch the demo!](https://drive.google.com/file/d/14DHZgjcsMc2nYK90pF25YohZGff5ae2B/view?usp=sharing)
 
 ## Research Question: 
 "What are the key factors that drive guest satisfaction in hotels across different regions of Egypt?"
