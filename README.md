@@ -5,8 +5,7 @@ This project investigates the key factors influencing guest satisfaction across 
 
 ## Demo Video: [!Watch the demo!](https://drive.google.com/file/d/14DHZgjcsMc2nYK90pF25YohZGff5ae2B/view?usp=sharing)
 
-## Research Question: 
-"What are the key factors that drive guest satisfaction in hotels across different regions of Egypt?"
+## Research Question: "What are the key factors that drive guest satisfaction in hotels across different regions of Egypt?"
 
 ## Team Members
 Jana Mohamed Abdelhafeez — 23-101097
